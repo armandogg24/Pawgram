@@ -1,1 +1,1 @@
-# Practica_3_Photogram
+# Photogram
