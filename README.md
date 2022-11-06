@@ -1,4 +1,4 @@
-# Photogram
+# Pawgram
 Una galeria de las fotos favoritas de mis gatos
 
 <a href="https://armandogg24.github.io/Practica_3_Pawgram/">Click Aquí -->
